@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0d662cef-c036-4bf3-96cd-130cfca2be08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../Credit_Card" beforeDir="false" afterPath="$PROJECT_DIR$/../../Credit_Card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vXoMJlGe43pgd1WRLzABrLsogI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
